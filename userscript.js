@@ -31,6 +31,16 @@
     "GLMR",
     // BURKINA FASO
     "DFOO","DFEF",
+    //THE GAMBIA 
+    "GBYD",
+    //GUINEA
+    "GUCY",
+    //GHANA
+    "DGAA","DGTK","DGLE",
+    //TOGO
+    "DXXX","DXNG",
+    //DJIBOUTI
+    "HDAM"
   ]);
 
   const RED_FILL   = "#e03030";
