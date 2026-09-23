@@ -40,7 +40,13 @@
     //TOGO
     "DXXX","DXNG",
     //DJIBOUTI
-    "HDAM"
+    "HDAM",
+    //ZAMBIA
+    "FLLI",
+    //ZIMBABWE
+    "FVTL","FVHA",
+    //BOTSWANA
+    "FBFT","FBTP","FBSK"
   ]);
 
   const RED_FILL   = "#e03030";
