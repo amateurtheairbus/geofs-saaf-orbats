@@ -31,6 +31,10 @@
     "GLMR",
     // BURKINA FASO
     "DFOO","DFEF",
+    //IVORY COAST
+    "DIAP","DIBK","DIKO",
+    //NIGERIA
+    "DNAA","DNBE","DNCA","DNEN","DNIL","DN53","DNKN","DNMM","DNMA","DNMK","DNMN","NG-0004","DNYO",
     //THE GAMBIA 
     "GBYD",
     //GUINEA
