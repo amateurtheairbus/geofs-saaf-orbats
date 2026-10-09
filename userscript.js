@@ -50,7 +50,9 @@
     //ZIMBABWE
     "FVTL","FVHA",
     //BOTSWANA
-    "FBFT","FBTP","FBSK"
+    "FBFT","FBTP","FBSK",
+    //TANZANIA
+    "HTMW","HTNG","HTDA"
   ]);
 
   const RED_FILL   = "#e03030";
